@@ -7,23 +7,26 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-# 💫 About Me:
+
+
+<h2>💫 About Me:</h2>
 👋 Hi, I'm **Vijay Chand Sharma**  
-🎓 Final-year IT student at **Madan Mohan Malaviya University of Technology**  
 
-🔭 **Currently learning:**  
-Exploring **Data Structures & Algorithms**, and diving into **Artificial Intelligence**, **Machine Learning**, and **Cybersecurity** 🔐
+🔭 <b>Currently learning:</b><br>
+Exploring <b>Data Structures & Algorithms</b>, and diving into <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Cybersecurity</b> 🔐
 
-🚀 **Career interests:**  
-Passionate about **AI/ML**, **Cybersecurity**, and **Full-Stack Development**
+🚀 <b>Career interests:</b><br>
+Passionate about <b>AI/ML</b>, <b>Cybersecurity</b>, and <b>Full-Stack Development</b>
 
-🎯 **What drives me:**  
-Tech’s ability to build **smart**, **scalable**, and **impactful** solutions 🚀
+🎯 <b>What drives me:</b><br>
+Tech’s ability to build <b>smart</b>, <b>scalable</b>, and <b>impactful</b> solutions 🚀
 
-🌟 **Beyond the code:**  
-📱 Exploring productivity tools  
-🎥 Watching thought-provoking documentaries  
+🌟 <b>Beyond the code:</b><br>
+📱 Exploring productivity tools<br>
+🎥 Watching thought-provoking documentaries<br>
 💡 Participating in hackathons and student communities
+
+
 
 ---
 
@@ -69,7 +72,3 @@ Tech’s ability to build **smart**, **scalable**, and **impactful** solutions �
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tony23stark&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
